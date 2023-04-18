@@ -14,14 +14,14 @@ Para utilizar este programa, é necessário ter um compilador C instalado no sis
 
 Copy code
 
-```bash
-gcc -o inversor.exe inversor.c```
+(```bash
+gcc -o inversor.exe inversor.c```)
 
 
 Depois de compilado, você pode executar o programa digitando o seguinte comando no terminal:
 
-```bash
-./inversor.exe```
+(```bash
+./inversor.exe```)
 
 O programa então solicitará que você insira dois valores inteiros. Após inserir os valores, o programa calculará seus valores inversos e exibirá a saída na tela.
 
