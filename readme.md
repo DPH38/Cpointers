@@ -29,7 +29,7 @@ O programa então solicitará que você insira dois valores inteiros. Após inse
 Contribuindo
 Contribuições para este projeto são bem-vindas. Se você encontrar um bug ou tiver uma solicitação de recurso, abra uma issue no repositório do GitHub. Se você deseja contribuir com o código, faça um fork do repositório e envie um pull request.
 
-=====English Version
+===========English Version
 
 Reverse Integers with Pointers in C
 
@@ -46,11 +46,15 @@ Usage
 To use this program, you need to have a C compiler installed on your system. You can compile the program by running the following command in your terminal:
 
 Copy code
+`
 gcc -o reverse_integers.exe reverse_integers.c
+`
 
 Once the program is compiled, you can run it by typing the following command in your terminal:
 
+`
 ./reverse_integers.exe
+`
 
 The program will then prompt you to enter two integer values. After entering the values, the program will calculate their reverse values and display the output on the screen.
 
